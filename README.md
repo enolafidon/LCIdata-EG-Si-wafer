@@ -1,3 +1,4 @@
+This LCI has been updated the 22 July 2026 to correct errors in the inventory of Silicon purified EG (siemens process) >  Inputs to the technosphere (electricity/heat) for each region.
 
 This life cycle inventory is an adaptation of Jungbluth et al [1] and IEA report [2] for the production of Single-Si Wafer electronic grade. 
 Detailed explanation and data analysis can be read in the following publication : 
